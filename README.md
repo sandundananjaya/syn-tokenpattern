@@ -1,1 +1,1 @@
-# syn-tokenpattern
+# SynchronizerTokenPattern
